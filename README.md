@@ -1,1 +1,1 @@
-# sidekick-beta
+# Sidekick (beta)
